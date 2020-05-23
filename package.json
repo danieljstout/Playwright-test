@@ -1,0 +1,20 @@
+{
+  "name": "Playwright-test",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danieljstout/Playwright-test.git",
+  "author": "Daniel Stout <ospreythirtyone@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0",
+    "playwright": "^1.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/node": "^7.8.7"
+  }
+}
